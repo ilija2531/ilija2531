@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Ilija Bogdanovski, 22 years old<br>Software Engineer student at Faculty of Information and Communication Technologies in Bitola<br>Interested mostly in Web Development<br>Big sports fan
+I'm Ilija Bogdanovski, 23 years old<br>Bachelor of Informatic Science and Communication Engineering at Faculty of Information and Communication Technologies in Bitola<br>Interested mostly in Web Development<br>Big sports fan
 
 
 ## 🌐 Socials:
